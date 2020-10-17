@@ -11,5 +11,7 @@ public class clase_github {
 		}else {
 			System.out.println("A es menor que B");
 		}
+		
+		System.out.println("holi");
 	}
 }
